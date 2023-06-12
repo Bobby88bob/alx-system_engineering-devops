@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "ls -1a" > is _cwd_content
+is -la > ls_cwd_content
